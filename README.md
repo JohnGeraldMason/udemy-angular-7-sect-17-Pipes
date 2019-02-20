@@ -1,4 +1,6 @@
-# MyFirstApp
+# Pipes
+
+![image](https://user-images.githubusercontent.com/2049888/53120047-4dfe0300-3527-11e9-9b99-34026a00d295.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
